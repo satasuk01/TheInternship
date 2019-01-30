@@ -7,8 +7,13 @@ Build: Using py_compile library on Python 3
 # Requires:
 - `Python 3`<br />
 - `xmltodict`<br /> 
-``` $ pip install xmltodict ```
-``` $ sudo apt install python-xmltodict ```
+- Installation Guide for xmltodict<br /> 
+```sh
+$ pip install xmltodict 
+```
+```sh
+$ sudo apt install python-xmltodict
+ ```
 ```sh
 $ sudo apt install python-xmltodict
 ```
